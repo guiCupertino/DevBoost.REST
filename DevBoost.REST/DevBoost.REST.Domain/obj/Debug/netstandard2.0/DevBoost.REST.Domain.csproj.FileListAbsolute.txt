@@ -1,0 +1,8 @@
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\bin\Debug\netstandard2.0\DevBoost.REST.Domain.deps.json
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\bin\Debug\netstandard2.0\DevBoost.REST.Domain.dll
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\bin\Debug\netstandard2.0\DevBoost.REST.Domain.pdb
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\obj\Debug\netstandard2.0\DevBoost.REST.Domain.csprojAssemblyReference.cache
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\obj\Debug\netstandard2.0\DevBoost.REST.Domain.AssemblyInfoInputs.cache
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\obj\Debug\netstandard2.0\DevBoost.REST.Domain.AssemblyInfo.cs
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\obj\Debug\netstandard2.0\DevBoost.REST.Domain.dll
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Domain\obj\Debug\netstandard2.0\DevBoost.REST.Domain.pdb

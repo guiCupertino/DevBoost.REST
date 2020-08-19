@@ -1,0 +1,11 @@
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\obj\Debug\netstandard2.0\DevBoost.REST.Repository.csprojAssemblyReference.cache
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\obj\Debug\netstandard2.0\DevBoost.REST.Repository.AssemblyInfoInputs.cache
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\obj\Debug\netstandard2.0\DevBoost.REST.Repository.AssemblyInfo.cs
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\bin\Debug\netstandard2.0\DevBoost.REST.Repository.deps.json
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\bin\Debug\netstandard2.0\DevBoost.REST.Repository.dll
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\bin\Debug\netstandard2.0\DevBoost.REST.Repository.pdb
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\bin\Debug\netstandard2.0\DevBoost.REST.Domain.dll
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\bin\Debug\netstandard2.0\DevBoost.REST.Domain.pdb
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\obj\Debug\netstandard2.0\DevBoost.REST.Repository.csproj.CopyComplete
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\obj\Debug\netstandard2.0\DevBoost.REST.Repository.dll
+C:\DevBoost\DevBoost.REST\DevBoost.REST.Repository\obj\Debug\netstandard2.0\DevBoost.REST.Repository.pdb
